@@ -1,0 +1,13 @@
+#+hugo_base_dir: ../
+
+* DONE My second post
+  CLOSED: [2022-10-11 Tue 21:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: second-post
+:END:
+
+This is a second post
+
+#+begin_src shell
+curl -v localhost:8000/index.html
+#+end_src

@@ -1,0 +1,8 @@
+#+hugo_base_dir: ../
+:tag1:@category2:
+* DONE Other post
+  CLOSED: [2022-10-11 Tue 21:38]
+:PROPERTIES:
+:EXPORT_FILE_NAME: other-post
+:END:
+This is another post
