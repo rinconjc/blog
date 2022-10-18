@@ -1,4 +1,4 @@
-baseURL = 'http://rinconjc.github.io/blog/'
+baseURL = 'https://rinconjc.github.io/blog/'
 languageCode = 'en-us'
 title = 'The Journey'
 disqusShortname = 'disqus_sm39zaPQNu' 
