@@ -1,8 +1,8 @@
 +++
 title = "Visita a Andahuaylas"
-author = ["julio"]
 date = 2022-10-11T21:38:00+11:00
 draft = false
+comments = true
 +++
 
 Después de mucho tiempo visité mi tierra natal Andahuaylas.
@@ -41,7 +41,7 @@ al estado de las carreteras. Sin embargo, no tuve tanta suerte, el bus que tome
 de la empresa Wari-Palomino se averió en la bajada al río Pampas, faltando al
 menos 2 horas para llegar a Andahuaylas, cuando a esa hora se supone que ya debió
 haber llegado a Andahuaylas. Volví a la realidad de lo impuntual y poco
-confiable que pueden los servicios en el Perú. Por suerte, encontré un taxi que
+confiable que pueden ser los servicios en el Perú. Por suerte, encontré un taxi que
 completo el viaje en 2.5 horas.
 
 
@@ -97,36 +97,37 @@ consideración a la gente a la que pretendían gobernar y servir.
 El colmo de falta de consideración y respeto a los demás, lo note cuando el día
 anterior a la elección fuimos a Pacucha y encontramos varias calles cerradas con
 carpas para el cierre de campanas. No tuvieron la consideración de señalizar las
-calles y sugerir rutas alternas. Este tipo de acciones seria inaudito en la
+calles y sugerir rutas alternas. Este tipo de acciones sería inaudito en la
 ciudad donde vivo, pero aquí parece que la gente común esta por debajo de los
 políticos y su entorno
 
 
 ## Jr. Constitución Solo Para Peatones {#jr-dot-constitución-solo-para-peatones}
 
-Excelente Obra. Esto es lo que mas me gusto de esta ciudad, y quisiera que se extiende a muchas
+Excelente Obra. Esto es lo que mas me gustó de esta ciudad, y quisiera que se extienda a muchas
 otras calles. Esta muy bonito con los faroles clásicos, las macetas de plantas y
-otros adornos que decoran esta calle. Seria interesante que pudieran seguir
+otros adornos que decoran esta calle. Sería interesante que pudieran seguir
 creando espacios como esta para que la gente pueda salir a caminar y distraerse.
-Ojala que en mi próxima visita esta calle se mantenga y habrán mas espacios
-públicos para esparcimiento publico al aire libre.
+Ojalá que en mi próxima visita esta calle se mantenga y abran mas espacios
+públicos para esparcimiento público al aire libre.
 
 
 ## Explosión de Moto-taxis, Carros, y Motos {#explosión-de-moto-taxis-carros-y-motos}
 
 Le bromeaba a mi hijo que quizá estos moto-taxis eran preferibles a los autos en
-términos de emisiónón de gases de carbono, porque tenia la sospecha que los
-motores serian mas pequeños y por tanto quemaban menos combustible, casi como de una cortadora de gras. Así que terminamos llamando lawn-mower bugs. La verdad es que son desagradables y
+términos de emisión de gases de carbono, porque tenia la sospecha que los
+motores serían mas pequeños y por tanto quemaban menos combustible, casi como de una cortadora de pasto.
+Así que terminamos llamando lawn-mower bugs. La verdad es que son desagradables y
 ruidosos, y se les ve por todos lados, incluso en los cerros. Probablemente,
-tienen motores mas potentes a los de una cortadora de gras.
+tienen motores mas potentes que las de una cortadora de pasto.
 
 Ojalá la gente caminara mas, o usara bicicletas, así habría menos demanda por
 estos vehículos, y otros en general. Aunque me gustaría una versión
 moderna de estos moto-taxis: eléctricos y autónomos. Serian silenciosos,
 eficientes, y siendo autónomos quizá podrían evitar accidentes, y la gente
-estaría menos estresada de ser arrollada por uno de estos.
+estaría menos preocupada de ser arrollada por uno de estos.
 
-En resumen, esta visita resulto un poquito mejor de lo que esperaba, al menos el
+En resumen, esta visita resultó un poquito mejor de lo que esperaba, al menos el
 trafico vehicular no ha empeorado comparado a hace 3 o 4 años atrás. Hay
 variedad de recreos turísticos para disfrutar de la buena comida. Pero mas que
-todo ver nuevamente a la familia fue invalorable.
+todo ver nuevamente a la familia fue incomparable.

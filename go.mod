@@ -2,4 +2,4 @@ module github.com/rinconjc/blog
 
 go 1.18
 
-require github.com/adityatelange/hugo-PaperMod v0.0.0-20220903105945-3a0a4811cbc0 // indirect
+require github.com/halogenica/beautifulhugo v0.0.0-20221001090844-268683bf7446 // indirect
