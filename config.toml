@@ -1,7 +1,7 @@
 baseURL = 'https://rinconjc.github.io/blog/'
 languageCode = 'en-us'
 title = 'The Journey'
-disqusShortname = 'disqus_sm39zaPQNu' 
+disqusShortname = 'rinconjc-github-io-1' 
 
 [module]
     [[module.imports]]
